@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "baseUrl": ".",
+    "module": "commonjs",
+    "moduleResolution": "node"
+  }
+}

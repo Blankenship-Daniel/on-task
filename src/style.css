@@ -1,0 +1,7 @@
+section[page] {
+  display: none;
+}
+
+section.active {
+  display: block;
+}
